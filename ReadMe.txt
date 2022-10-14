@@ -1,6 +1,6 @@
 1. Add all desired shortcuts to the same folder that contains "OpenShortcuts.bat".
 
-2. Copy the shortcut names into the shortcuts.txt (one shortcut per line).
+2. Copy the shortcut names into shortcuts.txt (one shortcut per line).
 
 3. Create a shortcut of "OpenShortcuts.bat".
 
