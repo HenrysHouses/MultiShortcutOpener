@@ -5,6 +5,7 @@ Multi Shortcuts:
 3. Create a shortcut of "OpenShortcuts.bat" and move it to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\".
 4. Customize! I recomend renaming the shortcut in the start menu to something like "aShaderURPWorkspace". This way autocompletion will easily find what you want and rarely confuse it with other aplications as in this case "Unity Hub" or other unity shortcuts that may exist. Changing icons for the shortcuts also make it easier to differentiate your multi shortcuts from each other if you create a lot of them. 
 5. PROFIT.
+6. If you rather want to only copy in the shortcut path directly into the .txt file. remove ".lnk" from the code in OpenShortcuts.bat. this would let you run the other .bat files directly instead of using shortcuts to them.
 
 
 Handy shortcuts i use:
