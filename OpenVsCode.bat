@@ -1,5 +1,5 @@
 @echo off
 title VsCode Workspace Opener
-CD /D "E:\projects\project1"
-code .
+cd "C:\Users\myUser\Documents\GitHub\Project"
+code . | exit
 exit
